@@ -1,6 +1,6 @@
 // Game.h : 游戏类头文件
 
-#pragma once		// 防止该头文件被多次调用2
+#pragma once		// 防止该头文件被多次调用3
 
 #include "Maze.h"	// 初始化头文件
 
